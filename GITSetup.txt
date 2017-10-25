@@ -1,0 +1,15 @@
+How to install GIT on MAC
+
+Step 1
+Goto below link
+https://github.com/VJX369/devOps.git
+
+Depending on your OS…the link website identifies and provides you the appropriate download on the right mid section of the screen.
+
+Step 2 
+Once following package is downloaded i.e. git-2.14.1-intel-universal-mavericks.dmg, right click on it to open with installer.
+
+On providing your Admin credentials, a mount is created and a setup gui is pops out, do navigate with applicable options & complete the installation.
+
+Step 3
+Now open the terminal on mac and run git gui from current location…GIT GUI opens up as a result.
